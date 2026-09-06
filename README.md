@@ -2,33 +2,26 @@
 
 Electrical engineering student working with FPGA systems, digital hardware, embedded software, and PCB design.
 
-## Frameworks and Tools
-
 ## Languages and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/SystemVerilog-14354C?style=for-the-badge" height="40" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge" height="40" alt="Verilog" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="42" height="42" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="42" height="42" alt=".NET" title=".NET" />
+  <img src="https://img.shields.io/badge/SystemVerilog-14354C?style=for-the-badge" height="42" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge" height="42" alt="Verilog" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,linux,git,github,dotnet" height="42" alt="C, C++, C#, Python, Linux, Git, GitHub, and .NET" />
 </p>
 
-## Development Environments
+## Development Tools
 
-| Area | Tools |
-| --- | --- |
-| **Operating system** | Linux Mint Cinnamon |
-| **SystemVerilog / Verilog** | AMD Vivado, XSim |
-| **C / C++** | xed, GCC/G++, Vitis |
-| **C#** | JetBrains Rider, .NET |
-| **Python** | Spyder |
-| **PCB design** | KiCad |
-| **Version control** | Git, GitHub |
+<p>
+  <img src="https://img.shields.io/badge/AMD_Vivado-FF8C00?style=for-the-badge" alt="AMD Vivado" />
+  <img src="https://img.shields.io/badge/AMD_Vitis-EA1B2D?style=for-the-badge" alt="AMD Vitis" />
+  <img src="https://img.shields.io/badge/XSim-8A2BE2?style=for-the-badge" alt="XSim" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="JetBrains Rider" />
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder" />
+  <img src="https://img.shields.io/badge/GCC-GNU_Compiler-5C6BC0?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
+  <img src="https://img.shields.io/badge/xed-Text_Editor-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="xed" />
+</p>
 
 ## Selected Work
 
