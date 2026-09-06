@@ -4,8 +4,6 @@ Electrical engineering student working with FPGA systems, digital hardware, embe
 
 ## Frameworks
 
-## Languages and Tools I Use:
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/systemverilog/systemverilog-original.svg" width="42" height="42" alt="SystemVerilog" title="SystemVerilog" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/verilog/verilog-original.svg" width="42" height="42" alt="Verilog" title="Verilog" />
@@ -18,6 +16,7 @@ Electrical engineering student working with FPGA systems, digital hardware, embe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="42" height="42" alt=".NET" title=".NET" />
 </p>
+
 ## Tools
 
 | Area | Tools |
