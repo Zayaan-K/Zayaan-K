@@ -5,9 +5,9 @@ Electrical engineering student working with FPGA systems, digital hardware, embe
 ## Languages and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/SystemVerilog-14354C?style=for-the-badge" height="42" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge" height="42" alt="Verilog" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,linux,git,github,dotnet" height="42" alt="C, C++, C#, Python, Linux, Git, GitHub, and .NET" />
+  <img src="./assets/systemverilog.svg" width="48" height="48" alt="SystemVerilog" title="SystemVerilog" />
+  <img src="./assets/verilog.svg" width="48" height="48" alt="Verilog" title="Verilog" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,linux,git,github,dotnet&theme=dark" height="48" alt="C, C++, C#, Python, Linux, Git, GitHub, and .NET" />
 </p>
 
 ## Development Tools
