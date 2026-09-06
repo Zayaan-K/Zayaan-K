@@ -9,6 +9,7 @@ Electrical engineering student working with FPGA systems, digital hardware, embe
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Tools
 
