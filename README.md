@@ -2,15 +2,22 @@
 
 Electrical engineering student working with FPGA systems, digital hardware, embedded software, and PCB design.
 
-## Languages
+## Frameworks
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-14354C?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-5C2D91?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Languages and Tools I Use:
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/systemverilog/systemverilog-original.svg" width="42" height="42" alt="SystemVerilog" title="SystemVerilog" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/verilog/verilog-original.svg" width="42" height="42" alt="Verilog" title="Verilog" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="42" height="42" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="42" height="42" alt=".NET" title=".NET" />
+</p>
 ## Tools
 
 | Area | Tools |
