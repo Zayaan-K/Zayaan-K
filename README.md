@@ -30,7 +30,7 @@ Electrical engineering student working with FPGA systems, digital hardware, embe
 - **16-bit CPU with Pong** — Verilog, custom ISA, memory-mapped I/O, VGA, and PS/2 keyboard input
 - **Terraria Mod Development** — C#, .NET, tModLoader, custom weapons, projectiles, and gameplay behavior
 - **Waveform Generator** — Verilog, phase accumulator, lookup table, PWM DAC, and oscilloscope validation
-- **UART Echo** — Verilog UART transmitter/receiver and finite-state machines
+- **ENEL 300 RC Car** — Designed and built an RC car to complete timed challenges in a course-wide competition, placing in the 90th percentile
 
 ## Current Technical Focus
 
