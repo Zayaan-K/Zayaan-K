@@ -32,6 +32,15 @@ Electrical engineering student working with FPGA systems, Graphic Systems, Digit
 - **Waveform Generator** — Verilog, phase accumulator, lookup table, PWM DAC, and oscilloscope validation
 - **ENEL 300 RC Car** — Designed and built an RC car to complete timed challenges in a course-wide competition, placing in the 90th percentile
 
-## Current Technical Focus
+## Contact Me
 
-`Computer Architecture` · `Graphics Engineering` · `FPGA Acceleration` · `Embedded Systems` · `Hardware Verification` · `PCB Design` · `Emulation`
+I'm open to connecting about FPGA development, digital design, embedded systems, and related opportunities.
+
+<p>
+  <a href="mailto:zayaankhandakar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/zayaan-k/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
