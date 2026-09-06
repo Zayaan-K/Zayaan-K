@@ -26,10 +26,10 @@ Electrical engineering student working with FPGA systems, digital hardware, embe
 
 - **RV32I SoC with Fixed-Function Triangle Rasterizer** — SystemVerilog, Vivado, XSim, RISC-V, custom datapath and control logic
 - **PlayStation 1 Emulator** *(in progress)* — C++, MIPS R3000A emulation, memory-bus development, and planned FPGA rasterization on the KV260
-- **16-bit CPU with Pong** — SystemVerilog, custom ISA, memory-mapped I/O, VGA, and PS/2 keyboard input
+- **16-bit CPU with Pong** — Verilog, custom ISA, memory-mapped I/O, VGA, and PS/2 keyboard input
 - **Terraria Mod Development** — C#, .NET, tModLoader, custom weapons, projectiles, and gameplay behavior
-- **[Waveform Generator](https://github.com/zayaan-k/Waveform_Generator)** — SystemVerilog, phase accumulator, lookup table, PWM DAC, and oscilloscope validation
-- **[UART Echo](https://github.com/zayaan-k/UARTecho)** — SystemVerilog UART transmitter/receiver and finite-state machines
+- **Waveform Generator** — Verilog, phase accumulator, lookup table, PWM DAC, and oscilloscope validation
+- **UART Echo** — Verilog UART transmitter/receiver and finite-state machines
 
 ## Current Technical Focus
 
