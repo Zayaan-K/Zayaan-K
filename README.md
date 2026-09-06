@@ -4,30 +4,18 @@ Electrical engineering student working with FPGA systems, digital hardware, embe
 
 ## Frameworks and Tools
 
+## Languages and Tools
+
 <p>
-  <img src="https://img.shields.io/badge/SystemVerilog-14354C?style=for-the-badge" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge" alt="Verilog" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-       width="42" height="42" alt="C" title="C" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-       width="42" height="42" alt="C++" title="C++" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-       width="42" height="42" alt="C#" title="C#" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-       width="42" height="42" alt="Python" title="Python" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-       width="42" height="42" alt="Linux" title="Linux" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-       width="42" height="42" alt="Git" title="Git" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
-       width="42" height="42" alt=".NET" title=".NET" />
+  <img src="https://img.shields.io/badge/SystemVerilog-14354C?style=for-the-badge" height="40" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge" height="40" alt="Verilog" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="42" height="42" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="42" height="42" alt=".NET" title=".NET" />
 </p>
 
 ## Development Environments
