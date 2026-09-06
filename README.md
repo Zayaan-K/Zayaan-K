@@ -1,6 +1,6 @@
 # Hi, I'm Zayaan  👋
 
-Electrical engineering student working with FPGA systems, Graphic Systems, digital hardware and embedded software.
+Electrical engineering student working with FPGA systems, Graphic Systems, Digital Hardware and Embedded Software.
 
 ## Languages and Tools
 
