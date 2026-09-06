@@ -1,13 +1,13 @@
 # Hi, I'm Zayaan  👋
 
-Electrical engineering student working with FPGA systems, digital hardware, embedded software, and PCB design.
+Electrical engineering student working with FPGA systems, Graphic Systems, digital hardware and embedded software.
 
 ## Languages and Tools
 
 <p>
-  <img src="./assets/systemverilog.svg" width="48" height="48" alt="SystemVerilog" title="SystemVerilog" />
-  <img src="./assets/verilog.svg" width="48" height="48" alt="Verilog" title="Verilog" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,linux,git,github,dotnet&theme=dark" height="48" alt="C, C++, C#, Python, Linux, Git, GitHub, and .NET" />
+  <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_systemverilog.svg" width="48" height="48" alt="SystemVerilog" title="SystemVerilog" />
+  <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_verilog.svg" width="48" height="48" alt="Verilog" title="Verilog" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,linux,git,github,dotnet&theme=dark" height="48" alt="C, C++, C#, Python, Linux, Git, GitHub and .NET" />
 </p>
 
 ## Development Tools
