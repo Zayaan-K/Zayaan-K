@@ -2,6 +2,11 @@
 
 Electrical engineering student working with FPGA systems, Graphic Systems, Digital Hardware and Embedded Software.
 
+To find a comprehensive view of my projects refer to zayaan-k.github.io
+
+Specific project pages are under development
+
+
 ## Languages and Tools
 
 <p>
@@ -22,15 +27,6 @@ Electrical engineering student working with FPGA systems, Graphic Systems, Digit
   <img src="https://img.shields.io/badge/GCC-GNU_Compiler-5C6BC0?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
   <img src="https://img.shields.io/badge/xed-Text_Editor-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="xed" />
 </p>
-
-## Selected Work
-
-- **RV32I SoC with Fixed-Function Triangle Rasterizer** — SystemVerilog, Vivado, XSim, RISC-V, custom datapath and control logic
-- **PlayStation 1 Emulator** *(in progress)* — C++, MIPS R3000A emulation, memory-bus development, and planned FPGA rasterization on the KV260
-- **16-bit CPU with Pong** — Verilog, custom ISA, memory-mapped I/O, VGA, and PS/2 keyboard input
-- **Terraria Mod Development** — C#, .NET, tModLoader, custom weapons, projectiles, and gameplay behavior
-- **Waveform Generator** — Verilog, phase accumulator, lookup table, PWM DAC, and oscilloscope validation
-- **ENEL 300 RC Car** — Designed and built an RC car to complete timed challenges in a course-wide competition, placing in the 90th percentile
 
 ## Contact Me
 
