@@ -2,7 +2,8 @@
 
 Electrical engineering student working with FPGA systems, Graphic Systems, Digital Hardware and Embedded Software.
 
-I no longer use Github for my main version control or project display
+I no longer use Github for my main version control or project display.
+
 To find a comprehensive view of my projects refer to zayaan-k.github.io
 
 Specific project pages are under development
